@@ -1,4 +1,6 @@
+package java_basics;
 import java.util.Scanner;
+
 
 public class armostrong {
     public static void main(String[] args) {
